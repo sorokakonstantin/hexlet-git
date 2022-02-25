@@ -1,9 +1,0 @@
-Hello, Hexlett!
-# hexlet-git
-# comment
-# comment2
-# comment3
-# comment4
-# comment5
-# comment6
-# comment7
